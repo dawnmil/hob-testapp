@@ -9,6 +9,9 @@
     "lint": "eslint . --ext .js,.jsx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "pre-commit": [
+    "lint"
+  ],
   "author": "dawnmilly",
   "license": "ISC",
   "dependencies": {
