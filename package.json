@@ -1,0 +1,13 @@
+{
+  "name": "hob-testapp",
+  "version": "0.0.1",
+  "description": "Sample project built with React and Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dawnmilly",
+  "license": "ISC"
+}
+
